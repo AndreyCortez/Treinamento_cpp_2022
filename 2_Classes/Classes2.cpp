@@ -4,10 +4,10 @@
 // Podemos facilmente fazer isso com :
 
 int cachorro1_idade = 2;
-char cachorro1_nome[4] = "Toby";
+char cachorro1_nome[5] = "Toby";
 
 int cachorro2_idade = 5;
-char cachorro2_nome[4] = "Toto";
+char cachorro2_nome[5] = "Toto";
 
 int main()
 {

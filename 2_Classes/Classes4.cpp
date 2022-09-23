@@ -4,7 +4,7 @@
 
 typedef struct {
     int idade;
-    char nome[4];
+    char nome[5];
 } cachorro;
 
 cachorro cachorro1 = {2, "Toby"};
